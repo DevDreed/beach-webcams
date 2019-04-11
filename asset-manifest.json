@@ -1,14 +1,13 @@
 {
   "main.css": "/beach-webcams/static/css/main.a5eede35.chunk.css",
-  "main.js": "/beach-webcams/static/js/main.d534c4c1.chunk.js",
-  "main.js.map": "/beach-webcams/static/js/main.d534c4c1.chunk.js.map",
+  "main.js": "/beach-webcams/static/js/main.56605532.chunk.js",
+  "main.js.map": "/beach-webcams/static/js/main.56605532.chunk.js.map",
   "runtime~main.js": "/beach-webcams/static/js/runtime~main.5c19b1c4.js",
   "runtime~main.js.map": "/beach-webcams/static/js/runtime~main.5c19b1c4.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/beach-webcams/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/beach-webcams/static/js/2.6efc73d3.chunk.js.map",
+  "static/js/2.65aa1cca.chunk.js": "/beach-webcams/static/js/2.65aa1cca.chunk.js",
+  "static/js/2.65aa1cca.chunk.js.map": "/beach-webcams/static/js/2.65aa1cca.chunk.js.map",
   "index.html": "/beach-webcams/index.html",
-  "precache-manifest.7e14bcdcffd08331c0cdf8e8a7dc6f36.js": "/beach-webcams/precache-manifest.7e14bcdcffd08331c0cdf8e8a7dc6f36.js",
+  "precache-manifest.35e1977a677c48808419cc5bbe425541.js": "/beach-webcams/precache-manifest.35e1977a677c48808419cc5bbe425541.js",
   "service-worker.js": "/beach-webcams/service-worker.js",
-  "static/css/main.a5eede35.chunk.css.map": "/beach-webcams/static/css/main.a5eede35.chunk.css.map",
-  "static/media/logo.svg": "/beach-webcams/static/media/logo.5d5d9eef.svg"
+  "static/css/main.a5eede35.chunk.css.map": "/beach-webcams/static/css/main.a5eede35.chunk.css.map"
 }

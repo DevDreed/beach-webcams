@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/beach-webcams/precache-manifest.7e14bcdcffd08331c0cdf8e8a7dc6f36.js"
+  "/beach-webcams/precache-manifest.35e1977a677c48808419cc5bbe425541.js"
 );
 
 workbox.clientsClaim();
